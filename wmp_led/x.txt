@@ -1,0 +1,5 @@
+segmenter
+log frequency spectrum
+harmonic spectrum : niveaux sonores par classe !! vamp:vamp-libxtract:harmonic_spectrum:amplitudes
+Mean Times Values : ~puissance !! vamp:vamp-libxtract:mean:mean
+sonic-annotator -t 
